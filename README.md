@@ -21,7 +21,7 @@
 * 2014 - c언어를 이용한 2인용 테트리스 제작
 * 2015 - java를 이용한 block 게임 제작
 * 2015 - java를 이용한 네트워크 오목 제작
-* 2016 - android capstone-design 진행 중
+* 2016 - [android capstone-design](https://github.com/jinny3770/coins) 진행 중
 * 2016 ~ 2017 - (주) 아르고테크놀리지 인턴 예정  
 
  
