@@ -30,5 +30,5 @@
 
 
 ###연락처
-github : [jinny3770](https://github.com/jinny3770)
+github : [jinny3770](https://github.com/jinny3770)  
 email: [jinny3770@gmail.com](jinny3770@gmail.com)
